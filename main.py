@@ -101,7 +101,7 @@ def check_server_status():
 
 activities = [
     discord.Activity(type=discord.ActivityType.watching, name="Watching over the AISC server"),
-    discord.Activity(type=discord.ActivityType.playing, name="PLaying on AISC Minecraft Server")
+    discord.Activity(type=discord.ActivityType.playing, name="Playing on AISC Minecraft Server")
 ]
 current_activity = 0
 
